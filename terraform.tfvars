@@ -1,3 +1,3 @@
-projectId = "__PROJECT_ID__"
+projectId = "demo3-tg"
 serviceAccountName = "terraformtest"
 serviceAccountDisplayName = "Terraform Recommender Test"

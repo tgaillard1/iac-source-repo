@@ -16,7 +16,7 @@
 
 terraform {
  backend "gcs" {
-   bucket  = "__STATE_BUCKET_NAME__"
+   bucket  = "recommender-tf-state-build3-tg"
    prefix  = "terraform/state"
  }
 }
