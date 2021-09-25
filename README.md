@@ -1,6 +1,6 @@
 # Sample IaC repository
 
-This repository contains sample Terraform manifest files for you to spin up
+TG - This repository contains sample Terraform manifest files for you to spin up
 resources in a sample GCP project for the purposes of this tutorial.
 
 The Terraform manifests are used to illustrate the automation pipeline. The manifests
