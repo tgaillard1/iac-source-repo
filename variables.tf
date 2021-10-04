@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-variable "projectId" {
-  type = "string"
+variable projectId {
+  type = string
 }
 
-variable "serviceAccountName" {
-  type = "string"
+variable serviceAccountName {
+  type = string
 }
 
-variable "serviceAccountDisplayName" {
-  type = "string"
+variable serviceAccountDisplayName {
+  type = string
 }
